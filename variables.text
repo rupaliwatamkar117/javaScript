@@ -1,0 +1,10 @@
+
+            var                             let
+loop:      rededine the variable after    let will not redfine the variable
+           execution of the looop
+    
+function:  within function scope          within function scope
+
+global:    global scope outside a block   global scope outside a block
+
+redeclaring: allowed anywhere in program   not allowed in same scope or block
